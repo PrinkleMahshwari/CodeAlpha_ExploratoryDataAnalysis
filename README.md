@@ -235,12 +235,11 @@ Possible future improvements for this project include:
 
 ## 🎥 LinkedIn Project Demonstration
 
-As part of the CodeAlpha Internship requirements, a project explanation video will be published on LinkedIn.
+As part of the CodeAlpha Internship requirements, a project explanation video has been published on LinkedIn.
 
-**Status:** ⏳ In Progress
+**Status:** Done ✅
 
-**LinkedIn Post Link:** To be added after publication.
-
+**LinkedIn Post Link:** [View LinkedIn Project Demonstration](https://www.linkedin.com/posts/prinkle-maheshwari-544417292_dataanalytics-eda-python-ugcPost-7470146925330350080-hy6o/)**
 ---
 
 ## ⭐ Internship Progress
@@ -267,6 +266,7 @@ This project was developed for educational purposes and as part of the CodeAlpha
 BS Software Engineering Student | Data Analytics Intern
 
 * GitHub: [PrinkleMahshwari](https://github.com/PrinkleMahshwari)
+* LinkedIn: [Project Demonstration Video](https://www.linkedin.com/posts/prinkle-maheshwari-544417292_dataanalytics-eda-python-ugcPost-7470146925330350080-hy6o/)
 * Project: **CodeAlpha_ExploratoryDataAnalysis**
 * Internship: **CodeAlpha Data Analytics Internship**
 
