@@ -239,7 +239,7 @@ As part of the CodeAlpha Internship requirements, a project explanation video ha
 
 **Status:** Done ✅
 
-**LinkedIn Post Link:** [View LinkedIn Project Demonstration](https://www.linkedin.com/posts/prinkle-maheshwari-544417292_dataanalytics-eda-python-ugcPost-7470146925330350080-hy6o/)**
+**LinkedIn Post Link:** [View LinkedIn Project Demonstration](https://www.linkedin.com/posts/prinkle-maheshwari-544417292_dataanalytics-eda-python-ugcPost-7470146925330350080-hy6o/)
 ---
 
 ## ⭐ Internship Progress
